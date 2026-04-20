@@ -6,8 +6,17 @@
         <description>Updates for Get Clippo</description>
         <language>en</language>
 
-        <!-- Add new <item> entries at the top as you release.
-             Each release.sh run writes the latest entry to dist/appcast-entry.xml — paste it here. -->
+        <item>
+            <title>Version 0.1.0</title>
+            <pubDate>Mon, 20 Apr 2026 15:54:07 +0000</pubDate>
+            <sparkle:version>0.1.0</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.0/GetClippo-release.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="gyBMtcbCkxwilLaPwrtqtrQXIQ2+ZFr8PHzRLEF9K9v5DcaZd7ezoi/3dP6X98ug+QsNZJ41/JE6FrZ4rsqRAA==" length="122185327" />
+        </item>
 
     </channel>
 </rss>
