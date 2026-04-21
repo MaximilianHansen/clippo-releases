@@ -6,6 +6,18 @@
         <description>Updates for Get Clippo</description>
         <language>en</language>
 
+                <item>
+            <title>Version 0.1.4</title>
+            <pubDate>Tue, 21 Apr 2026 15:25:58 +0000</pubDate>
+            <sparkle:version>0.1.4</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.4/GetClippo-release.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="4i6aCzPsELMzXluDP3lI4Jf/RlN/NL0pIuEwOg6BPsPIifeLFJjVwPMNYSaPxWPG7vbASkM8awECWMRbew6ABA==" length="122193399" />
+        </item>
+
         <item>
             <title>Version 0.1.3</title>
             <pubDate>Mon, 20 Apr 2026 16:51:57 +0000</pubDate>
