@@ -7,6 +7,18 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.1.6</title>
+            <pubDate>Fri, 24 Apr 2026 15:26:05 +0000</pubDate>
+            <sparkle:version>0.1.6</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.6/GetClippo-release.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="J9KCVtw1vDU38YO6Q4z8ADvmM0RbDs9f2oMCCpHFa8Ta9n58ahUq+ic5KiqHoMA6TbNU23zx3S+Ret5N8QfMBw==" length="122204646" />
+        </item>
+
+        <item>
             <title>Version 0.1.5</title>
             <pubDate>Thu, 23 Apr 2026 16:29:21 +0000</pubDate>
             <sparkle:version>0.1.5</sparkle:version>
