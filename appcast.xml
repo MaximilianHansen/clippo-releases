@@ -1,94 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Get Clippo</title>
         <link>https://github.com/MaximilianHansen/clippo-releases</link>
         <description>Updates for Get Clippo</description>
         <language>en</language>
-
+        <item>
+            <title>Version 0.1.7</title>
+            <pubDate>Mon, 04 May 2026 15:50:14 +0000</pubDate>
+            <sparkle:version>0.1.7</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.7/GetClippo-release.zip" type="application/octet-stream" sparkle:edSignature="h4KaBT94VZ3H4iSx4KDtecI1i2xGC4Gd+vb+KPOqDiMWyqMIjQSIW4lGnl89f0Pp19GI3vu5xxjofeKkDJnJCQ==" length="122221668" />
+        </item>
         <item>
             <title>Version 0.1.6</title>
             <pubDate>Fri, 24 Apr 2026 15:26:05 +0000</pubDate>
             <sparkle:version>0.1.6</sparkle:version>
             <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.6/GetClippo-release.zip"
-                type="application/octet-stream"
-                sparkle:edSignature="J9KCVtw1vDU38YO6Q4z8ADvmM0RbDs9f2oMCCpHFa8Ta9n58ahUq+ic5KiqHoMA6TbNU23zx3S+Ret5N8QfMBw==" length="122204646" />
+            <enclosure url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.6/GetClippo-release.zip" type="application/octet-stream" sparkle:edSignature="J9KCVtw1vDU38YO6Q4z8ADvmM0RbDs9f2oMCCpHFa8Ta9n58ahUq+ic5KiqHoMA6TbNU23zx3S+Ret5N8QfMBw==" length="122204646" />
         </item>
-
         <item>
             <title>Version 0.1.5</title>
             <pubDate>Thu, 23 Apr 2026 16:29:21 +0000</pubDate>
             <sparkle:version>0.1.5</sparkle:version>
             <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.5/GetClippo-release.zip"
-                type="application/octet-stream"
-                sparkle:edSignature="PPPPFhek0bO7NPADzutvT3v+BGPjgYtUeorxUCdbGRbmwBkPKZ43A9/aM0dqwYVgK5ekm3xV1dYiWYaietalAQ==" length="122198377" />
+            <enclosure url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.5/GetClippo-release.zip" type="application/octet-stream" sparkle:edSignature="PPPPFhek0bO7NPADzutvT3v+BGPjgYtUeorxUCdbGRbmwBkPKZ43A9/aM0dqwYVgK5ekm3xV1dYiWYaietalAQ==" length="122198377" />
         </item>
-
         <item>
             <title>Version 0.1.4</title>
             <pubDate>Tue, 21 Apr 2026 15:25:58 +0000</pubDate>
             <sparkle:version>0.1.4</sparkle:version>
             <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.4/GetClippo-release.zip"
-                type="application/octet-stream"
-                sparkle:edSignature="4i6aCzPsELMzXluDP3lI4Jf/RlN/NL0pIuEwOg6BPsPIifeLFJjVwPMNYSaPxWPG7vbASkM8awECWMRbew6ABA==" length="122193399" />
+            <enclosure url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.4/GetClippo-release.zip" type="application/octet-stream" sparkle:edSignature="4i6aCzPsELMzXluDP3lI4Jf/RlN/NL0pIuEwOg6BPsPIifeLFJjVwPMNYSaPxWPG7vbASkM8awECWMRbew6ABA==" length="122193399" />
         </item>
-
         <item>
             <title>Version 0.1.3</title>
             <pubDate>Mon, 20 Apr 2026 16:51:57 +0000</pubDate>
             <sparkle:version>0.1.3</sparkle:version>
             <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.3/GetClippo-release.zip"
-                type="application/octet-stream"
-                sparkle:edSignature="OO+Lq7XI8qhb1hetnu8q+vnMv/qSh3rERZ6X4bwRQjlsnSFXqmKU+SHi6bjzcZkylBOs4S8Ut+hJ8PfAEldaAw==" length="122184755" />
+            <enclosure url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.3/GetClippo-release.zip" type="application/octet-stream" sparkle:edSignature="OO+Lq7XI8qhb1hetnu8q+vnMv/qSh3rERZ6X4bwRQjlsnSFXqmKU+SHi6bjzcZkylBOs4S8Ut+hJ8PfAEldaAw==" length="122184755" />
         </item>
-
         <item>
             <title>Version 0.1.2</title>
             <pubDate>Mon, 20 Apr 2026 16:36:47 +0000</pubDate>
             <sparkle:version>0.1.2</sparkle:version>
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.2/GetClippo-release.zip"
-                type="application/octet-stream"
-                sparkle:edSignature="RkHpuny64J146M4xY0N+yHU7MkKxglUE3lszMuE4k9i7OHnXaalIDl0ATb2gY4bziKU464E064NLigtAaRQjCA==" length="122185517" />
+            <enclosure url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.2/GetClippo-release.zip" type="application/octet-stream" sparkle:edSignature="RkHpuny64J146M4xY0N+yHU7MkKxglUE3lszMuE4k9i7OHnXaalIDl0ATb2gY4bziKU464E064NLigtAaRQjCA==" length="122185517" />
         </item>
-
         <item>
             <title>Version 0.1.1</title>
             <pubDate>Mon, 20 Apr 2026 16:16:08 +0000</pubDate>
             <sparkle:version>0.1.1</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.1/GetClippo-release.zip"
-                type="application/octet-stream"
-                sparkle:edSignature="hHllzvV1yEhGP/Jdmn35SIuHpR5cit3H6uMMafn7qF3V7egqE4pVoxOXXhfTBKtdmPkEFs52hIH8oJoxYORADg==" length="122185070" />
+            <enclosure url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.1/GetClippo-release.zip" type="application/octet-stream" sparkle:edSignature="hHllzvV1yEhGP/Jdmn35SIuHpR5cit3H6uMMafn7qF3V7egqE4pVoxOXXhfTBKtdmPkEFs52hIH8oJoxYORADg==" length="122185070" />
         </item>
-
         <item>
             <title>Version 0.1.0</title>
             <pubDate>Mon, 20 Apr 2026 15:54:07 +0000</pubDate>
             <sparkle:version>0.1.0</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.0/GetClippo-release.zip"
-                type="application/octet-stream"
-                sparkle:edSignature="gyBMtcbCkxwilLaPwrtqtrQXIQ2+ZFr8PHzRLEF9K9v5DcaZd7ezoi/3dP6X98ug+QsNZJ41/JE6FrZ4rsqRAA==" length="122185327" />
+            <enclosure url="https://github.com/MaximilianHansen/clippo-releases/releases/download/v0.1.0/GetClippo-release.zip" type="application/octet-stream" sparkle:edSignature="gyBMtcbCkxwilLaPwrtqtrQXIQ2+ZFr8PHzRLEF9K9v5DcaZd7ezoi/3dP6X98ug+QsNZJ41/JE6FrZ4rsqRAA==" length="122185327" />
         </item>
-
     </channel>
 </rss>
